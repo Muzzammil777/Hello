@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muzzammil777.github.io/new_portfolio/",
+  "homepage": "https://muzzammil777.github.io/Hello/",
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@hookform/resolvers": "^5.0.1",
